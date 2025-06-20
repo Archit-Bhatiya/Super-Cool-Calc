@@ -12,7 +12,7 @@ Array.from(buttons).forEach(button => {
             string = "";
         }
         }
-        else if (value === "C" || value === "AC" || value === "⌫") {
+        else if (value === "AC" || value === "⌫") {
             return;
         }
 
